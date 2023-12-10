@@ -1,0 +1,7 @@
+[user]
+	email = a.deshpande012@gmail.com
+	name = Abhay D
+[core]
+	editor = vim
+[alias]
+    pushf = push --force-with-lease
